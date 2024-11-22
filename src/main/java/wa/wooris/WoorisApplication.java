@@ -8,6 +8,7 @@ public class WoorisApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(WoorisApplication.class, args);
+        System.out.println("test");
     }
 
 }
